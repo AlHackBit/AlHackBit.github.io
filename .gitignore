@@ -1,0 +1,30 @@
+# Игнорировать временные файлы операционной системы
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Игнорировать системные и пользовательские директории
+AppData/
+Application Data/
+Cookies/
+Documents/
+Intel/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+главное меню/
+Мои документы/
+Шаблоны/
+node_modules/
+.vscode/
+.idea/
+
+# Игнорировать файлы логов
+*.log
+
+# Игнорировать файлы сборки и кеша
+dist/
+build/
+.cache/
